@@ -9,3 +9,5 @@ latihan4
 ![alt text](https://github.com/akbarpra/praktikum1akbar/blob/master/latihan4.PNG)
 latihan5
 ![alt text](https://github.com/akbarpra/praktikum1akbar/blob/master/latihan5.PNG)
+variabel hasil
+![alt text](https://github.com/akbarpra/praktikum1akbar/blob/master/variabel%20hasil.PNG)
